@@ -1,6 +1,5 @@
 # れ
 
-## Profile
 2006
 Japan
 
