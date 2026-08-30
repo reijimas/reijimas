@@ -1,7 +1,8 @@
 ## れ
 
 ## Profile
-birth 2006
+2006
+Japan
 
 ## Tech Stack
 
