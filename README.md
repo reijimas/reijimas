@@ -11,11 +11,3 @@ birth 2006
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ユーザー名&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザー名&layout=compact&theme=radical)
-
-
